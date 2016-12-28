@@ -1,0 +1,6 @@
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\bin\Debug\github_day-1-task-2.exe.config
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\bin\Debug\github_day-1-task-2.exe
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\bin\Debug\github_day-1-task-2.pdb
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\obj\Debug\github_day-1-task-2.csprojResolveAssemblyReference.cache
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\obj\Debug\github_day-1-task-2.exe
+c:\users\rvp\documents\visual studio 2012\Projects\github_day-1-task-2\github_day-1-task-2\obj\Debug\github_day-1-task-2.pdb
